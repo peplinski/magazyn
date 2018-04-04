@@ -15,9 +15,8 @@ public class Magazyn {
     private void usunProduktyNieSwieze(){}
     private void sprawdzCzyProduktWKategorii(){}
 
-    public void dodajProdukty(int id, String dataSpozycia, String nazwa, double cena, String kategoria, int klasaProd) {
-        Produkt produkt = new Produkt();
-        produkty.put(kategoria,produkt);
+    public void dodajProdukty() {
+       ;
     }
 
 
