@@ -1,6 +1,6 @@
 package Magazyn;
 
-public enum kategoria {
+public enum  Kategoria {
     NABIAL,
     OWOCE,
     WARZYWA,

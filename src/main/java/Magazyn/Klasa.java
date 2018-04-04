@@ -1,6 +1,6 @@
 package Magazyn;
 
-public enum klasa {
+public enum Klasa {
     NISKA,
     WYSOKA;
 }
